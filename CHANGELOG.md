@@ -1,3 +1,6 @@
+## [3.0.1+3] - 03 March 2021
+- Multiple PlaceType Added for searching and reverse geocoding
+
 ## [3.0.1+2] - 20 Dec 2021
 - PlaceType enum to string conversion fixed
 
